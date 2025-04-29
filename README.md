@@ -7,7 +7,7 @@ A Node.js application that integrates Nodemailer to send emails with file upload
 - 📁 File Uploads: Handle file uploads from users for email attachments.
 -⚡ Efficient and Scalable: Built on Node.js for fast and reliable performance.
 
-##Tech Stack
+## Tech Stack
 - Node.js: Backend runtime environment.
 - Nodemailer: Library for sending emails.
 - Express.js: Web framework for handling HTTP requests.
